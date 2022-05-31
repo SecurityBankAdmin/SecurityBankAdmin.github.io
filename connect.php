@@ -1,6 +1,6 @@
 <?php session_start();
 
-$servername="localhost";
+$servername="db4free.net";
 $username="goldbwdo_hope";
 $password="Hope1,11";
 $dbname="goldbwdo_hope";
@@ -9,7 +9,7 @@ if($conn->connect_error) {
 	die("Please wait, we will be up in moments...");
 }
 
-$servername="localhost";
+$servername="db4free.net";
 $username="goldbwdo_hope";
 $password="Hope1,11";
 $dbname="goldbwdo_hope";
