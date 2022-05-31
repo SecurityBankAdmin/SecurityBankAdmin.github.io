@@ -105,7 +105,7 @@ function googleTranslateElementInit() {
                            
                              
                          <li><a href="register.php">Register</a></li>
-                                    <li><a href="login.php">Login</a></li>
+                                    <li><a href="connect.php">Login</a></li>
                              <li><a href="#">+1-806-310-5438</a></li>
                               <li><a href="#">support@internationalinsurancecompanysolution.business</a></li>
 							
